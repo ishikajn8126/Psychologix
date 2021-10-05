@@ -1,3 +1,3 @@
 
 # Psychologix
-![banner](img/banner.gif)
+![banner](img/banner2.0.gif)
