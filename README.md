@@ -1,3 +1,3 @@
 
 # Psychologix
-![](img/banner.mp4)
+![banner](img/banner.mp4)
