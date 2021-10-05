@@ -6,6 +6,9 @@ Psychologix is a website which tries to create awareness in the society towards 
 
 # Theme
 
+<p align="center">
+<img width=100% src="img/landingPage.gif">
+ </p>
 
 # Features
  * ### **Awareness**
