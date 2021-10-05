@@ -8,10 +8,10 @@ Psychologix is a website which tries to create awareness in the society towards 
 
 According to us the biggest cliché that exist, is the way Mental illness is being dealt in our society. 
 
-## Present Day Scenerio: - 
+### Present Day Scenerio:- 
 Due to lack of awareness in our society, generally people aren’t able to understand the person suffering instead put them under pressure of being judged negatively, this results in suffering person isolating himself and having no one to speak his/her heart out.
 
-## Killing The Cliche: - 
+### Killing The Cliche:- 
 To have a better way of dealing with people suffering from mental illness other than the existing cliche, we built a website which firstly promotes awareness through a separate page and Bot, and secondly provides user with a safe anonymous platform in form of Bot where they can speak their heart out, without having fear of judgement. 
 
 ### Getting a place where Bot understands the person, listen everything without judging the person and without asking for his/ her identity is what will helps a mentally retarded person to recovery
