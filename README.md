@@ -12,11 +12,11 @@ Psychologix is a website which tries to create awareness in the society towards 
 
 # Features
  * ### **Awareness**
- The concern of awareness comes up, to rectify that we have a separated page for making people, person suffering , and close ones of that person aware about it and making them believe that you can overcome it.
+    The concern of awareness comes up, to rectify that we have a separated page for making people, person suffering , and close ones of that person aware about it and     making them believe that you can overcome it.
  * ### **Psychobot**
-PsychoBot will have interactive conversations with the user, making him feel inclusive, safe and giving him an impression of a person who understands him like no one else does.As we know that sometimes the cases of mental illness reach a level where human guidance of a specialist (being it a psychologist or counsellor) becomes necessary, in that case our idea was to give control of the same chat window to a psychologist  replacing the Bot from the other end. But due to time constraints of this code jam , we  weren’t able to put in that functioning, but instead of it, once our Bot recognises that issue , it sends in the contact of psychologists to be contacted for better treatment from the user.
+    PsychoBot will have interactive conversations with the user, making him feel inclusive, safe and giving him an impression of a person who understands him like no       one else does.As we know that sometimes the cases of mental illness reach a level where human guidance of a specialist (being it a psychologist or counsellor)         becomes necessary, in that case our idea was to give control of the same chat window to a psychologist  replacing the Bot from the other end. But due to time           constraints of this code jam , we  weren’t able to put in that functioning, but instead of it, once our Bot recognises that issue , it sends in the contact of         psychologists to be contacted for better treatment from the user.
  * ### **Anonymity**
- The website does not ask for any login credentials, hence the user can chat without revealing his/her identity which prevents the fear of judgement.
+    The website does not ask for any login credentials, hence the user can chat without revealing his/her identity which prevents the fear of judgement.
 
 
 # Future features
