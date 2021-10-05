@@ -36,8 +36,7 @@ To have a better way of dealing with people suffering from mental illness other 
 
 # Future features
  * More interactive bot.
- * Games and Music corner.
- * Developing BOT using a language. 
+ * Games and Music corner. 
  * Psychologist take over the same chat window.
  * Adding stories of people who have battled with mental illness on the awareness page.
 
