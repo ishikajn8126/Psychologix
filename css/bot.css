@@ -9,7 +9,7 @@ body, html {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../img/bot.jpg");
+  background-image: url("../img/botbg.webp");
   background-size: cover;
   background-position: center;
   font-family: "Rajdhani", sans-serif;
