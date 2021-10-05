@@ -1,7 +1,7 @@
 ![banner](img/banner2.0.gif)
 
 # About Psychologix
-Psychologix is a website which tries to create awareness in the society towards mental health. It lets the user know that they are not the only ones and makes them believe that you can overcome it! Furthermore, we have a PyschoBot where the user can talk about anything without the fear of being judged. fun fact the bot is available all the time unlike timely human presence :alien:
+Psychologix is a website which tries to create awareness in the society towards mental health. It lets the user know that they are not the only ones suffering and makes them believe that you can overcome it! Furthermore, we have a PyschoBot where the user can talk about anything without the fear of being judged. fun fact the bot is available all the time unlike timely human presence :alien:
 
 
 # Theme
@@ -40,7 +40,7 @@ PsychoBot will have interactive conversations with the user, making him feel inc
 1. Fork and clone the repo.
 2. Open `index.html` in your browser.
 
-   or you can visit our site [here](psychologix.vercel.app)
+   or you can visit our site [here](https://psychologix.vercel.app)
 
 # Team
 ### TUXEDO PENGUINS:heart:
