@@ -180,7 +180,7 @@ body {
 }
 .slider .container1 .design .inner {
   /* background-color: #C9CCD5; */
-  background-image: url("Ebook.gif");
+  background-image: url("../img/Ebook.gif");
   background-size:cover;
   background-repeat: no-repeat;
 }
@@ -198,7 +198,7 @@ body {
 }
 
 .slider .container2 .design .inner {
-  background-image: url("Chat bot.gif");
+  background-image: url("../img/Chat bot.gif");
   background-size:cover;
   background-repeat: no-repeat;
 }
@@ -214,7 +214,7 @@ body {
 }
 .slider .container3 .design .inner {
   /* background-color: #D3E0EA; */
-  background-image: url("Creative team.gif");
+  background-image: url("../img/Creative team.gif");
   background-size:cover;
   background-position:center ;
   background-repeat: no-repeat;
