@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Rajdhani:300&display=swap");
+body, html {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.bot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../bot.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: "Rajdhani", sans-serif;
+  height: 100%;
+}
+
+footer{
+    color: white;
+    background-color: #343A40;
+    font-size: 17px;
+    height: 47px;
+    width: 100%;
+    padding: 10px;
+    text-align:center;
+  }
