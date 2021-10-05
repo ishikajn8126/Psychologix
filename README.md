@@ -19,7 +19,7 @@ To have a better way of dealing with people suffering from mental illness other 
 
 
 <p align="center">
-<img width=100% src="img/landingPage.gif">
+<img width=100% src="img/landing_SparkVideo.gif">
  </p>
 
 # Features
